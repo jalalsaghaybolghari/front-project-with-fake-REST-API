@@ -1,0 +1,373 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "author": "ali"
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "author": "mahammad"
+    }
+  ],
+  "customers": [
+    {
+      "id": "1",
+      "code": "CUST001",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "phone": "123-456-7893"
+    },
+    {
+      "id": "2",
+      "code": "CUST002",
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "phone": "987-654-3210"
+    },
+    {
+      "id": "3",
+      "code": "CUST003",
+      "name": "Michael Johnson",
+      "email": null,
+      "phone": "555-555-5555"
+    },
+    {
+      "id": "4",
+      "code": "CUST004",
+      "name": "Emily Brown",
+      "email": "emily.brown@example.com",
+      "phone": "111-222-3333"
+    },
+    {
+      "id": "5",
+      "code": "CUST005",
+      "name": "Christopher Davis",
+      "email": "chris.davis@example.com",
+      "phone": "444-444-4444"
+    },
+    {
+      "id": "6",
+      "code": "CUST006",
+      "name": "Jessica Wilson",
+      "email": null,
+      "phone": "777-777-7777"
+    },
+    {
+      "id": "7",
+      "code": "CUST007",
+      "name": "Matthew Martinez",
+      "email": "matthew.martinez@example.com",
+      "phone": "888-888-8888"
+    },
+    {
+      "id": "8",
+      "code": "CUST008",
+      "name": "Amanda Taylor",
+      "email": "amanda.taylor@example.com",
+      "phone": "999-999-9999"
+    },
+    {
+      "id": "9",
+      "code": "CUST009",
+      "name": "Daniel Anderson",
+      "email": null,
+      "phone": "666-666-6666"
+    },
+    {
+      "id": "10",
+      "code": "CUST010",
+      "name": "Ashley Thomas",
+      "email": "ashley.thomas@example.com",
+      "phone": "222-333-4444"
+    },
+    {
+      "id": "11",
+      "code": "CUST011",
+      "name": "David Jackson",
+      "email": "david.jackson@example.com",
+      "phone": "555-444-3333"
+    },
+    {
+      "id": "12",
+      "code": "CUST012",
+      "name": "Sarah White",
+      "email": "sarah.white@example.com",
+      "phone": "111-222-3333"
+    },
+    {
+      "id": "13",
+      "code": "CUST013",
+      "name": "Andrew Harris",
+      "email": null,
+      "phone": "777-888-9999"
+    },
+    {
+      "id": "14",
+      "code": "CUST014",
+      "name": "Olivia Martin",
+      "email": "olivia.martin@example.com",
+      "phone": "333-444-5555"
+    },
+    {
+      "id": "15",
+      "code": "CUST015",
+      "name": "Christopher Thompson",
+      "email": "chris.thompson@example.com",
+      "phone": "666-777-8888"
+    },
+    {
+      "id": "16",
+      "code": "CUST016",
+      "name": "Megan Garcia",
+      "email": null,
+      "phone": "999-888-7777"
+    },
+    {
+      "id": "17",
+      "code": "CUST017",
+      "name": "James Martinez",
+      "email": "james.martinez@example.com",
+      "phone": "222-333-4444"
+    },
+    {
+      "id": "18",
+      "code": "CUST018",
+      "name": "Lauren Robinson",
+      "email": "lauren.robinson@example.com",
+      "phone": "555-666-7777"
+    },
+    {
+      "id": "19",
+      "code": "CUST019",
+      "name": "Ryan Clark",
+      "email": null,
+      "phone": "888-999-0000"
+    },
+    {
+      "id": "20",
+      "code": "CUST020",
+      "name": "Jessica Walker",
+      "email": "jessica.walker@example.com",
+      "phone": "111-222-3333"
+    },
+    {
+      "id": "21",
+      "code": "CUST021",
+      "name": "Justin Perez",
+      "email": "justin.perez@example.com",
+      "phone": "444-555-6666"
+    },
+    {
+      "id": "22",
+      "code": "CUST022",
+      "name": "Kimberly Hall",
+      "email": null,
+      "phone": "777-888-9999"
+    },
+    {
+      "id": "23",
+      "code": "CUST023",
+      "name": "Brandon Young",
+      "email": "brandon.young@example.com",
+      "phone": "999-000-1111"
+    },
+    {
+      "id": "24",
+      "code": "CUST024",
+      "name": "Taylor Hernandez",
+      "email": "taylor.hernandez@example.com",
+      "phone": "222-333-4444"
+    },
+    {
+      "id": "25",
+      "code": "CUST025",
+      "name": "Emily King",
+      "email": null,
+      "phone": "555-666-7777"
+    },
+    {
+      "id": "26",
+      "code": "CUST026",
+      "name": "Nicholas Scott",
+      "email": "nicholas.scott@example.com",
+      "phone": "888-999-0000"
+    },
+    {
+      "id": "27",
+      "code": "CUST027",
+      "name": "Hannah Green",
+      "email": "hannah.green@example.com",
+      "phone": "111-222-3333"
+    },
+    {
+      "id": "28",
+      "code": "CUST028",
+      "name": "Joseph Adams",
+      "email": null,
+      "phone": "444-555-6666"
+    },
+    {
+      "id": "29",
+      "code": "CUST029",
+      "name": "Samantha Baker",
+      "email": "samantha.baker@example.com",
+      "phone": "777-888-9999"
+    },
+    {
+      "id": "30",
+      "code": "CUST030",
+      "name": "Tyler Nelson",
+      "email": "tyler.nelson@example.com",
+      "phone": "999-000-1111"
+    },
+    {
+      "id": "31",
+      "code": "CUST031",
+      "name": "Kelsey Carter",
+      "email": null,
+      "phone": "222-333-4444"
+    },
+    {
+      "id": "32",
+      "code": "CUST032",
+      "name": "Benjamin Ramirez",
+      "email": "benjamin.ramirez@example.com",
+      "phone": "555-666-7777"
+    },
+    {
+      "id": "33",
+      "code": "CUST033",
+      "name": "Rachel James",
+      "email": "rachel.james@example.com",
+      "phone": "888-999-0000"
+    },
+    {
+      "id": "34",
+      "code": "CUST034",
+      "name": "Cody Evans",
+      "email": null,
+      "phone": "111-222-3333"
+    },
+    {
+      "id": "35",
+      "code": "CUST035",
+      "name": "Alyssa Phillips",
+      "email": "alyssa.phillips@example.com",
+      "phone": "444-555-6666"
+    },
+    {
+      "id": "36",
+      "code": "CUST036",
+      "name": "Austin Torres",
+      "email": "austin.torres@example.com",
+      "phone": "777-888-9999"
+    },
+    {
+      "id": "37",
+      "code": "CUST037",
+      "name": "Rebecca Flores",
+      "email": null,
+      "phone": "999-000-1111"
+    },
+    {
+      "id": "38",
+      "code": "CUST038",
+      "name": "Luke Lee",
+      "email": "luke.lee@example.com",
+      "phone": "222-333-4444"
+    },
+    {
+      "id": "39",
+      "code": "CUST039",
+      "name": "Katie Morris",
+      "email": "katie.morris@example.com",
+      "phone": "555-666-7777"
+    },
+    {
+      "id": "40",
+      "code": "CUST040",
+      "name": "Dylan Ward",
+      "email": null,
+      "phone": "888-999-0000"
+    },
+    {
+      "id": "41",
+      "code": "CUST041",
+      "name": "Emma Richardson",
+      "email": "emma.richardson@example.com",
+      "phone": "111-222-3333"
+    },
+    {
+      "id": "42",
+      "code": "CUST042",
+      "name": "Jared Wood",
+      "email": null,
+      "phone": "444-555-6666"
+    },
+    {
+      "id": "43",
+      "code": "CUST043",
+      "name": "Grace Kim",
+      "email": "grace.kim@example.com",
+      "phone": "777-888-9999"
+    },
+    {
+      "id": "44",
+      "code": "CUST044",
+      "name": "Nathan Mitchell",
+      "email": "nathan.mitchell@example.com",
+      "phone": "999-000-1111"
+    },
+    {
+      "id": "45",
+      "code": "CUST045",
+      "name": "Madison Carter",
+      "email": null,
+      "phone": "222-333-4444"
+    },
+    {
+      "id": "46",
+      "code": "CUST046",
+      "name": "Ethan Hill",
+      "email": "ethan.hill@example.com",
+      "phone": "555-666-7777"
+    },
+    {
+      "id": "47",
+      "code": "CUST047",
+      "name": "Hailey Mitchell",
+      "email": "hailey.mitchell@example.com",
+      "phone": "888-999-0000"
+    },
+    {
+      "id": "48",
+      "code": "CUST048",
+      "name": "Christian Brown",
+      "email": null,
+      "phone": "111-222-3333"
+    },
+    {
+      "id": "49",
+      "code": "CUST049",
+      "name": "Kayla Gonzalez",
+      "email": "kayla.gonzalez@example.com",
+      "phone": "444-555-6666"
+    },
+    {
+      "id": "50",
+      "code": "CUST050",
+      "name": "Justin Hill",
+      "email": "justin.hill@example.com",
+      "phone": "777-888-9999"
+    },
+    {
+      "id": "12ae",
+      "code": "231",
+      "name": "dsfds",
+      "email": "sdfsdf",
+      "phone": "09035866818"
+    }
+  ]
+}
